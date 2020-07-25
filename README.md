@@ -1,5 +1,5 @@
-# YAL
-Yet Another (Java) Logger
+# YALT
+Yet Another (Java) Logging Tool
 
 ## Getting Started
 
